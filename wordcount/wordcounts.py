@@ -1,5 +1,5 @@
 #
-# Source code for the 'MapReduce and Word Count Exercise' in
+# Source code for the 'MapReduce and Word Count' Exercise in
 # Data Analytics with Spark Using Python
 # by Jeffrey Aven
 #
