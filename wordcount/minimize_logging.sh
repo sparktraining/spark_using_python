@@ -1,0 +1,1 @@
+sed "s/log4j.rootCategory=INFO, console/log4j.rootCategory=ERROR, console/" $SPARK_HOME/conf/log4j.properties.template > $SPARK_HOME/conf/log4j.properties
