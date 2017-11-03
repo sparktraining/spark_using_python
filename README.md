@@ -3,4 +3,4 @@
 
 This repository contains the source code for exercises from the book
 
-![data_analytics_with_spark](http://avensolutions-images.s3-website-us-east-1.amazonaws.com/data-analytics-with-spark-using-python.jpg) 
+![data_analytics_with_spark](https://sparkusingpython.s3.amazonaws.com/images/data-analytics-with-spark-using-python.jpg) 
